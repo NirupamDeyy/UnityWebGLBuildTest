@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-GoogleSheetToUnity-0.1";
 const contentToCache = [
-    "Build/Builds.loader.js",
-    "Build/Builds.framework.js.unityweb",
-    "Build/Builds.data.unityweb",
-    "Build/Builds.wasm.unityweb",
+    "Build/Build.loader.js",
+    "Build/Build.framework.js",
+    "Build/Build.data",
+    "Build/Build.wasm",
     "TemplateData/style.css"
 
 ];
